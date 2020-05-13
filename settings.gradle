@@ -1,0 +1,2 @@
+rootProject.name='DoodleView2'
+include ':app'
